@@ -1,5 +1,6 @@
 import React from 'react';
-import { Code2, Globe2, Server, Linkedin } from 'lucide-react';
+import { Code2, Globe2, Server, Linkedin, LogOut } from 'lucide-react';
+import Logo_Altlab from './logo';
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
           <div className="container mx-auto px-6">
             <div className="flex justify-between items-center h-16">
               <div className="text-2xl font-bold flex items-center gap-2 text-white">
-                <Code2 className="h-8 w-8" />
+                {/* <Code2 className="h-8 w-8" /> */}
+                <Logo_Altlab size={30} />
                 <span>Altlab.io</span>
               </div>
             </div>
