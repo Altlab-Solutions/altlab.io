@@ -1,6 +1,6 @@
 import React from 'react';
 import { Code2, Globe2, Server, Linkedin, LogOut } from 'lucide-react';
-import Logo_Altlab from './logo';
+import Logo_Altlab2 from './logo2';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
             <div className="flex justify-between items-center h-16">
               <div className="text-2xl font-bold flex items-center gap-2 text-white">
                 {/* <Code2 className="h-8 w-8" /> */}
-                <Logo_Altlab size={30} />
+                <Logo_Altlab2 size={50} />
                 <span>Altlab.io</span>
               </div>
             </div>
@@ -79,7 +79,7 @@ function App() {
                 />
               </div>
               <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Julian Azwar</h3>
-              <p className="text-[#5b8ea2] mb-3">Founder - CEO</p>
+              <p className="text-[#5b8ea2] mb-3">Founder - Business Stategy</p>
               <a
                 href="https://www.linkedin.com/in/julian-azwar/"
                 target="_blank"
@@ -100,7 +100,7 @@ function App() {
                 />
               </div>
               <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Mike Veilleux</h3>
-              <p className="text-[#5b8ea2] mb-3">Founder - CTO</p>
+              <p className="text-[#5b8ea2] mb-3">Founder - Technical Lead</p>
               <a
                 href="https://www.linkedin.com/in/mike-veilleux-54052610/"
                 target="_blank"
