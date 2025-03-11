@@ -78,7 +78,7 @@ function App() {
                   className="relative w-48 h-48 rounded-full mx-auto mb-4 object-cover ring-4 ring-[#95b3bd]/20"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Julian Azwar</h3>
+              <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Julian</h3>
               <p className="text-[#5b8ea2] mb-3">Founder - Business Stategy</p>
               <a
                 href="https://www.linkedin.com/in/julian-azwar/"
@@ -99,7 +99,7 @@ function App() {
                   className="relative w-48 h-48 rounded-full mx-auto mb-4 object-cover ring-4 ring-[#95b3bd]/20"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Mike Veilleux</h3>
+              <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Mike</h3>
               <p className="text-[#5b8ea2] mb-3">Founder - Technical Lead</p>
               <a
                 href="https://www.linkedin.com/in/mike-veilleux-54052610/"
